@@ -1,7 +1,5 @@
 # Diamonds Price Prediction
 
-# Project Name
-
   Project status: Completed
   
 # Project objective
