@@ -1,3 +1,8 @@
+
+
+![diamond](https://user-images.githubusercontent.com/104516688/206201295-23865923-766e-4438-b2c2-26ce687a9acb.jpeg)
+
+
 # Diamonds Price Prediction
 
   Project status: Completed
